@@ -1,0 +1,9 @@
+*.db 
+*.log 
+__pycache__/ 
+*.pyc 
+.env 
+aisa_config.json 
+*_results/ 
+*.pdf 
+.DS_Store 
